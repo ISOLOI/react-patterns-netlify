@@ -1,24 +1,28 @@
 ---
-title: Hello World!
+title: New Age Recruit
 featuredImage: /images/uploads/isabella juskova.jpg
-subtitle: This is the home page subtitle
+subtitle: Find your next developer by letting one help
 meta:
-  title: ''
+  title: ""
 ---
+# Time to let a Software Engineer take over!
 
-# Netlify CMS + React Starter
+> There is no spam emails or "cold calls" needed to fill the roles you need now
 
-A starter project for creating lightning-fast, offline-first websites with [Netlify CMS](https://netlifycms.org) and React.
+ New Age Recruit is a much needed firm that was founded after 10 years of discussing the issues recruitment firms create. Developers all over the online communities have internal channels for promoting job openings just to avoid a "sales pitch".
 
-- **[Create React App](https://github.com/facebookincubator/create-react-app)**
-- **[React Router](https://github.com/ReactTraining/react-router)** for routing
-- **[React Helmet](https://github.com/nfl/react-helmet)** for document titles, descriptions, meta
-- **[React Snapshot](https://github.com/geelen/react-snapshot)** for pre-rendering to static html so it works without Javascript ⭐️
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
+** Your Business Loses countless potential interviews due to using inexperienced recruiters. **
 
-## See also
+## It's time to modernize the process
 
-[Netlify CMS Docs](https://www.netlifycms.org/docs/)  
-[Netlify CMS Repo](https://github.com/netlify/netlify-cms)  
-[Hyperstatic](https://github.com/Jinksi/hyperstatic) – the same starter project minus Netlify CMS  
-[Gatsby + Netlify CMS Starter (Gatsbro)](https://github.com/Jinksi/gatsbro)
+### New Age Recruit has a new set of tools to fill your needs!
+
+
+
+
+
+* **Access to multiple communities and forums filled with actice candidates** *with many channels specific to your needs*
+* **Screening process that makes phone calls obsolete** *reducing the time it takes to send over info for your team to review drastically*
+* **Standardized prerequisites check-list submitted with every candidate making it effortless when comparing multiple individuals submitted** *showcase of a developers experience and contributions universally accepted in devleoper communities*
+
+## 
